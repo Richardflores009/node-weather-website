@@ -1,4 +1,3 @@
-console.log('Client side javascript file is live')
 const weatherForm = document.querySelector('form')
 const searchEl = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
